@@ -1,6 +1,6 @@
 # secure-php-coding
 
-best way to secure coding while making php web project
+best way to secure coding while making php web project or create blank index.php in every directory
 
 1) use .htaccess to restrict user to watch list of file in **directory** <br>
 <p><b> while making login pahe</p>
